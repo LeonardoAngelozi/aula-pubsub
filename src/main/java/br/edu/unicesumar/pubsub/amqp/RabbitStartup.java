@@ -34,6 +34,10 @@ public class RabbitStartup {
         this.amqpAdmin.declareBinding(bindingMsgDirectMyQueue);
     }
 
+    
+    //sdk install java
+
+
        /* 
         @Autowired
     private RabbitTemplate rabbitTemplate;
